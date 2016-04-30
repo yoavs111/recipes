@@ -1,5 +1,12 @@
 text from git to github
+<<<<<<< HEAD
 
 k;kgkjkjhjgflljgkhg;ljk
 6/ gggggg
 7/jjjjjjjjjl
+=======
+hoo!!!
+lol olo
+bob bob bob
+kukuriku
+>>>>>>> origin/master
